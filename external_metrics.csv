@@ -1,0 +1,2 @@
+model,split,level,accuracy,precision,recall,specificity,f1,roc_auc,pr_auc,eer,threshold,tn,fp,fn,tp
+efficientnet_b0,external_test,video,0.5,0.0,0.0,1.0,0.0,0.0,0.5,1.0,0.5201553708563248,1,0,1,0

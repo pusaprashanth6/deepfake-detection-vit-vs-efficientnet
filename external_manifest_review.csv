@@ -1,0 +1,3 @@
+video_path,video_id,label,class_name,source,split
+/kaggle/input/datasets/chandashekar8/deepfake-testing-videos/model1.mp4,model1,0,Real,External,external_test
+/kaggle/input/datasets/chandashekar8/deepfake-testing-videos/modeloutput1.mp4,modeloutput1,1,Fake,External,external_test
